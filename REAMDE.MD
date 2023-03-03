@@ -1,3 +1,3 @@
 # Demo
 
-Some changing collection.
+Some changing collection!
